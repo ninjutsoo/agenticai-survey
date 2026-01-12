@@ -1,0 +1,81 @@
+
+
+### PAGE 1
+ 1  
+Title. AI Agents in Clinical Medicine: A Systematic Review 
+Short Title. Agents in Medicine 
+Author Block. Alon Gorenshtein*,1,2 Mahmud Omar*,1,2 Benjamin S Glicksberg,1,2 
+Girish N Nadkarni†,1,2 Eyal Klang†,1,2  
+Author Affiliations.  
+1.The Windreich Department of Artificial Intelligence and Human Health, Mount Sinai 
+Medical Center, NY, USA. 
+2.The Hasso Plattner Institute for Digital Health at Mount Sinai, Mount Sinai Health 
+System, NY, USA. 
+ 
+* Co-first authors. These authors contributed equally. 
+† Co-senior authors. These authors contributed equally. 
+ 
+Keywords: AI agent, Agentic AI, Large language model, systematic review, AI 
+ 
+Author Contributions: Conceptualization, AG, MO, EK, BSG,GN; Methodology, AG, 
+MO, EK; Formal Analysis, AG, MO; Data Curation, AG, MO; Writing-Original Draft 
+Preparation, AG,MO; Writing- Review & Editing, AG, MO, EK,BSG,GN; Supervision: 
+EK,GN 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted August 26, 2025. ; https://doi.org/10.1101/2025.08.22.25334232doi: medRxiv preprint 
+NOTE: This preprint reports new research that has not been certified by peer review and should not be used to guide clinical practice.
+
+
+### PAGE 2
+ 2  
+Funding. This work was supported in part through the computational and data 
+resources and staff expertise provided by Scientific Computing and Data at the Icahn 
+School of Medicine at Mount Sinai and supported by the Clinical and Translational 
+Science Awards (CTSA) grant UL1TR004419 from the National Center for Advancing 
+Translational Sciences. Research reported in this publication was also supported by the 
+Office of Research Infrastructure of the National Institutes of Health under award 
+number S10OD026880 and S10OD030463. The content is solely the responsibility of 
+the authors and does not necessarily represent the official views of the National 
+Institutes of Health.  
+Competing interests. The authors declare that they have no competing interests. 
+Word count. 3916. 
+Address correspondence to:  
+Eyal Klang, MD or Girish Nadkarni, MD, MPH 
+3 East 101 Street,  
+New York, NY-10128 
+eyal.klang@mssm.edu or girish.nadkarni@mountsinai.org 
+ 
+ 
+  
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted August 26, 2025. ; https://doi.org/10.1101/2025.08.22.25334232doi: medRxiv preprint 
+
+
+### PAGE 3
+ 3  
+ABSTRACT 
+Background: AI agents built on large language models (LLMs) can plan tasks, use 
+external tools, and coordinate with other agents. Unlike standard LLMs, agents can 
+execute multi-step processes, access real-time clinical information, and integrate 
+multiple data sources. There has been interest in using such agents for clinical and 
+administrative tasks, however, there is limited knowledge on their performance and 
+whether multi-agent systems function better than a single agent for healthcare tasks.  
+Purpose: To evaluate the performance of AI agents in healthcare, compare AI agent 
+systems vs. standard LLMs and catalog the tools used for task completion 
+Data Sources: PubMed, Web of Science, and Scopus from October 1, 2022, through 
+August 5, 2025. 
+Study Selection: Peer-reviewed studies implementing AI agents for clinical tasks with 
+quantitative performance comparisons. 
+Data Extraction: Two reviewers (A.G., M.O.) independently extracted data on 
+architectures, performance metrics, and clinical applications. Discrepancies were 
+resolved by discussion, with a third reviewer (E.K.) consulted when consensus could not 
+be reached. 
+Data Synthesis Twenty studies met inclusion criteria. Across studies, all agent systems 
+outperformed their baseline LLMs in accuracy performance. Improvements ranged from 
+small gains to increases of over 60 percentage points, with a median improvement of 53 
+percentage points in single-agent tool-calling studies. These systems were particularly 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted August 26, 2025. ; https://doi.org/10.1101/2025.08.22.25334232doi: medRxiv preprint 

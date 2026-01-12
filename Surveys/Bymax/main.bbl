@@ -1,0 +1,594 @@
+\begin{thebibliography}{74}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Act(1996)}]{act1996health}
+Accountability Act. 1996.
+\newblock Health insurance portability and accountability act of 1996.
+\newblock \emph{Public law}, 104:191.
+
+\bibitem[{Bani-Harouni et~al.(2024)Bani-Harouni, Navab, and
+  Keicher}]{baniharouni2024magdamultiagentguidelinedrivendiagnostic}
+David Bani-Harouni, Nassir Navab, and Matthias Keicher. 2024.
+\newblock \href {https://arxiv.org/abs/2409.06351} {Magda: Multi-agent
+  guideline-driven diagnostic assistance}.
+\newblock \emph{Preprint}, arXiv:2409.06351.
+
+\bibitem[{Br{\"u}gge et~al.(2024)Br{\"u}gge, Ricchizzi, Arenbeck, Keller,
+  Schur, Stummer, Holling, Lu, and Darici}]{Brgge2024LargeLM}
+Emilia Br{\"u}gge, Sarah Ricchizzi, Malin Arenbeck, Marius~Niklas Keller, Lina
+  Schur, Walter Stummer, Markus Holling, Max~Hao Lu, and Dogus Darici. 2024.
+\newblock \href {https://api.semanticscholar.org/CorpusID:274369479} {Large
+  language models improve clinical decision making of medical students through
+  patient simulation and structured feedback: a randomized controlled trial}.
+\newblock \emph{BMC Medical Education}, 24.
+
+\bibitem[{Carlini et~al.(2021)Carlini, Tramer, Wallace, Jagielski,
+  Herbert-Voss, Lee, Roberts, Brown, Song, Erlingsson
+  et~al.}]{carlini2021extracting}
+Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel
+  Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar
+  Erlingsson, et~al. 2021.
+\newblock Extracting training data from large language models.
+\newblock In \emph{30th USENIX Security Symposium (USENIX Security 21)}, pages
+  2633--2650.
+
+\bibitem[{Chadebecq et~al.(2023)Chadebecq, Lovat, and
+  Stoyanov}]{chadebecq2023artificial}
+F~Chadebecq, L.B. Lovat, and D.~Stoyanov. 2023.
+\newblock \href {https://doi.org/10.1038/s41575-022-00701-y} {Artificial
+  intelligence and automation in endoscopy and surgery}.
+\newblock \emph{Nature Reviews Gastroenterology \& Hepatology}, 20:171--182.
+\newblock Accepted: 03 October 2022, Published: 09 November 2022, Issue Date:
+  March 2023.
+
+\bibitem[{Chai et~al.(2025)Chai, Li, Fu, Zhao, and Zhu}]{chai2025empowering}
+Jiajun Chai, Sicheng Li, Yuqian Fu, Dongbin Zhao, and Yuanheng Zhu. 2025.
+\newblock \href {https://openreview.net/forum?id=JsVIGVntnQ} {Empowering {LLM}
+  agents with zero-shot optimal decision-making through q-learning}.
+\newblock In \emph{The Thirteenth International Conference on Learning
+  Representations}.
+
+\bibitem[{Cheng et~al.(2024)Cheng, Zhang, Zhang, Meng, Hong, Li, Wang, Wang,
+  Yin, Zhao, and He}]{cheng2024exploringlargelanguagemodel}
+Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao
+  Li, Zihao Wang, Zekai Wang, Feng Yin, Junhua Zhao, and Xiuqiang He. 2024.
+\newblock \href {https://arxiv.org/abs/2401.03428} {Exploring large language
+  model based intelligent agents: Definitions, methods, and prospects}.
+\newblock \emph{Preprint}, arXiv:2401.03428.
+
+\bibitem[{Dou et~al.(2024)Dou, Zhang, Jin, Jiao, Zhao, Zhao, and
+  Tao}]{dou2024exploringllmbaseddataannotation}
+Chengfeng Dou, Ying Zhang, Zhi Jin, Wenpin Jiao, Haiyan Zhao, Yongqiang Zhao,
+  and Zhengwei Tao. 2024.
+\newblock \href {https://arxiv.org/abs/2410.04112} {Exploring llm-based data
+  annotation strategies for medical dialogue preference alignment}.
+\newblock \emph{Preprint}, arXiv:2410.04112.
+
+\bibitem[{Du et~al.(2024)Du, Zheng, Hu, Xu, Li, Sun, Chen, Wu, Cai, and
+  Ying}]{du2024llmssimulatestandardizedpatients}
+Zhuoyun Du, Lujie Zheng, Renjun Hu, Yuyang Xu, Xiawei Li, Ying Sun, Wei Chen,
+  Jian Wu, Haolei Cai, and Haohao Ying. 2024.
+\newblock \href {https://arxiv.org/abs/2412.11716} {Llms can simulate
+  standardized patients via agent coevolution}.
+\newblock \emph{Preprint}, arXiv:2412.11716.
+
+\bibitem[{Dutta and Hsiao(2024)}]{dutta2024adaptivereasoningactingmedical}
+Abhishek Dutta and Yen-Che Hsiao. 2024.
+\newblock \href {https://arxiv.org/abs/2410.10020} {Adaptive reasoning and
+  acting in medical language agents}.
+\newblock \emph{Preprint}, arXiv:2410.10020.
+
+\bibitem[{Fan et~al.(2024)Fan, Tang, Chen, Wang, Wei, Xi, Huang, and
+  Zhou}]{fan2024aihospitalbenchmarkinglarge}
+Zhihao Fan, Jialong Tang, Wei Chen, Siyuan Wang, Zhongyu Wei, Jun Xi, Fei
+  Huang, and Jingren Zhou. 2024.
+\newblock \href {https://arxiv.org/abs/2402.09742} {Ai hospital: Benchmarking
+  large language models in a multi-agent medical interaction simulator}.
+\newblock \emph{Preprint}, arXiv:2402.09742.
+
+\bibitem[{Faray~de Paiva et~al.(2025)Faray~de Paiva, Luijten, Puladi, and
+  Egger}]{faray2025does}
+Lisle Faray~de Paiva, Gijs Luijten, Behrus Puladi, and Jan Egger. 2025.
+\newblock How does deepseek-r1 perform on usmle?
+\newblock \emph{medRxiv}, pages 2025--02.
+
+\bibitem[{GDPR(2016)}]{gdpr2016general}
+GDPR GDPR. 2016.
+\newblock General data protection regulation.
+\newblock \emph{Regulation (EU)}, 679.
+
+\bibitem[{Guo et~al.(2025)Guo, Yang, Zhang, Song, Zhang, Xu, Zhu, Ma, Wang, Bi
+  et~al.}]{guo2025deepseek}
+Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu,
+  Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, et~al. 2025.
+\newblock Deepseek-r1: Incentivizing reasoning capability in llms via
+  reinforcement learning.
+\newblock \emph{arXiv preprint arXiv:2501.12948}.
+
+\bibitem[{Hendrycks et~al.(2021{\natexlab{a}})Hendrycks, Burns, Basart, Critch,
+  Li, Song, and Steinhardt}]{hendrycks2021ethics}
+Dan Hendrycks, Collin Burns, Steven Basart, Andrew Critch, Jerry Li, Dawn Song,
+  and Jacob Steinhardt. 2021{\natexlab{a}}.
+\newblock Aligning ai with shared human values.
+\newblock \emph{Proceedings of the International Conference on Learning
+  Representations (ICLR)}.
+
+\bibitem[{Hendrycks et~al.(2021{\natexlab{b}})Hendrycks, Burns, Basart, Zou,
+  Mazeika, Song, and Steinhardt}]{hendryckstest2021}
+Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn
+  Song, and Jacob Steinhardt. 2021{\natexlab{b}}.
+\newblock Measuring massive multitask language understanding.
+\newblock \emph{Proceedings of the International Conference on Learning
+  Representations (ICLR)}.
+
+\bibitem[{Huang et~al.(2024{\natexlab{a}})Huang, Wang, Liu, Wang, and
+  Wang}]{huang2024benchmarkinglargelanguagemodels}
+Hengguan Huang, Songtao Wang, Hongfu Liu, Hao Wang, and Ye~Wang.
+  2024{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2402.05547} {Benchmarking large language
+  models on communicative medical coaching: a novel system and dataset}.
+\newblock \emph{Preprint}, arXiv:2402.05547.
+
+\bibitem[{Huang et~al.(2024{\natexlab{b}})Huang, Yu, Ma, Zhong, Feng, Wang,
+  Chen, Peng, Feng, Qin, and Liu}]{Huang_2024}
+Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian Wang,
+  Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, and Ting Liu.
+  2024{\natexlab{b}}.
+\newblock \href {https://doi.org/10.1145/3703155} {A survey on hallucination in
+  large language models: Principles, taxonomy, challenges, and open questions}.
+\newblock \emph{ACM Transactions on Information Systems}.
+
+\bibitem[{Huang et~al.(2025)Huang, Geng, Hua, Huang, Zou, Zhang, Liu, and
+  Zhang}]{huang2025o1replicationjourney}
+Zhongzhen Huang, Gui Geng, Shengyi Hua, Zhen Huang, Haoyang Zou, Shaoting
+  Zhang, Pengfei Liu, and Xiaofan Zhang. 2025.
+\newblock \href {https://arxiv.org/abs/2501.06458} {O1 replication journey --
+  part 3: Inference-time scaling for medical reasoning}.
+\newblock \emph{Preprint}, arXiv:2501.06458.
+
+\bibitem[{Jiang et~al.(2024)Jiang, Li, Zhao, Wang, Shao, Xu, Zhang, Chen, Tang,
+  Chen, Wu, Ma, Wang, and Chen}]{jiang2024longtermmemoryfoundation}
+Xun Jiang, Feng Li, Han Zhao, Jiaying Wang, Jun Shao, Shihao Xu, Shu Zhang,
+  Weiling Chen, Xavier Tang, Yize Chen, Mengyue Wu, Weizhi Ma, Mengdi Wang, and
+  Tianqiao Chen. 2024.
+\newblock \href {https://arxiv.org/abs/2410.15665} {Long term memory: The
+  foundation of ai self-evolution}.
+\newblock \emph{Preprint}, arXiv:2410.15665.
+
+\bibitem[{Jin et~al.(2020)Jin, Pan, Oufattole, Weng, Fang, and
+  Szolovits}]{jin2020diseasedoespatienthave}
+Di~Jin, Eileen Pan, Nassim Oufattole, Wei-Hung Weng, Hanyi Fang, and Peter
+  Szolovits. 2020.
+\newblock \href {https://arxiv.org/abs/2009.13081} {What disease does this
+  patient have? a large-scale open domain question answering dataset from
+  medical exams}.
+\newblock \emph{Preprint}, arXiv:2009.13081.
+
+\bibitem[{Jin et~al.(2019)Jin, Dhingra, Liu, Cohen, and Lu}]{jin2019pubmedqa}
+Qiao Jin, Bhuwan Dhingra, Zhengping Liu, William Cohen, and Xinghua Lu. 2019.
+\newblock Pubmedqa: A dataset for biomedical research question answering.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing and the 9th International Joint Conference on
+  Natural Language Processing (EMNLP-IJCNLP)}, pages 2567--2577.
+
+\bibitem[{Kandpal et~al.(2023)Kandpal, Pillutla, Oprea, Kairouz,
+  Choquette-Choo, and Xu}]{kandpal2023user}
+Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher~A
+  Choquette-Choo, and Zheng Xu. 2023.
+\newblock User inference attacks on large language models.
+\newblock \emph{arXiv preprint arXiv:2310.09266}.
+
+\bibitem[{Ke et~al.(2024)Ke, Yang, Lie, Lim, Ning, Li, Abdullah, Ting, and
+  Liu}]{info:doi/10.2196/59439}
+Yuhe Ke, Rui Yang, Sui~An Lie, Taylor Xin~Yi Lim, Yilin Ning, Irene Li,
+  Hairil~Rizal Abdullah, Daniel Shu~Wei Ting, and Nan Liu. 2024.
+\newblock \href {https://doi.org/10.2196/59439} {Mitigating cognitive biases in
+  clinical decision-making through multi-agent conversations using large
+  language models: Simulation study}.
+\newblock \emph{J Med Internet Res}, 26:e59439.
+
+\bibitem[{Kim et~al.(2024{\natexlab{a}})Kim, Park, Jeong, Chan, Xu, McDuff,
+  Lee, Ghassemi, Breazeal, and Park}]{kim2024mdagentsadaptivecollaborationllms}
+Yubin Kim, Chanwoo Park, Hyewon Jeong, Yik~Siu Chan, Xuhai Xu, Daniel McDuff,
+  Hyeonhoon Lee, Marzyeh Ghassemi, Cynthia Breazeal, and Hae~Won Park.
+  2024{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2404.15155} {Mdagents: An adaptive
+  collaboration of llms for medical decision-making}.
+\newblock \emph{Preprint}, arXiv:2404.15155.
+
+\bibitem[{Kim et~al.(2024{\natexlab{b}})Kim, Park, Jeong, Chan, Xu, McDuff,
+  Lee, Ghassemi, Breazeal, and Park}]{kim2024mdagents}
+Yubin Kim, Chanwoo Park, Hyewon Jeong, Yik~Siu Chan, Xuhai Xu, Daniel McDuff,
+  Hyeonhoon Lee, Marzyeh Ghassemi, Cynthia Breazeal, and Hae~Won Park.
+  2024{\natexlab{b}}.
+\newblock Mdagents: An adaptive collaboration of llms for medical
+  decision-making.
+\newblock In \emph{The Thirty-eighth Annual Conference on Neural Information
+  Processing Systems}.
+
+\bibitem[{Kim et~al.(2024{\natexlab{c}})Kim, Park, Jeong, Grau-Vilchez
+  et~al.}]{kim2024demonstrationadaptivecollaborationlarge}
+Yubin Kim, Chanwoo Park, Hyewon Jeong, Cristina Grau-Vilchez, et~al.
+  2024{\natexlab{c}}.
+\newblock \href {https://arxiv.org/abs/2411.00248} {A demonstration of adaptive
+  collaboration of large language models for medical decision-making}.
+\newblock \emph{Preprint}, arXiv:2411.00248.
+
+\bibitem[{Kiseleva et~al.(2022)Kiseleva, Kotzinos, and
+  De~Hert}]{10.3389/frai.2022.879603}
+Anastasiya Kiseleva, Dimitris Kotzinos, and Paul De~Hert. 2022.
+\newblock \href {https://doi.org/10.3389/frai.2022.879603} {Transparency of ai
+  in healthcare as a multilayered system of accountabilities: Between legal
+  requirements and technical limitations}.
+\newblock \emph{Frontiers in Artificial Intelligence}, 5.
+
+\bibitem[{Laymouna et~al.(2024)Laymouna, Ma, Lessard, Schuster, Engler, and
+  Lebouch{\'e}}]{laymouna2024roles}
+M~Laymouna, Y~Ma, D~Lessard, T~Schuster, K~Engler, and B~Lebouch{\'e}. 2024.
+\newblock \href {https://doi.org/10.2196/56930} {Roles, users, benefits, and
+  limitations of chatbots in health care: Rapid review}.
+\newblock \emph{Journal of Medical Internet Research}, 26:e56930.
+
+\bibitem[{Lee et~al.(2024)Lee, Kumar, Vogt, and
+  Meraj}]{lee2024improvingclinicaldocumentationai}
+Chanseo Lee, Sonu Kumar, Kimon~A. Vogt, and Sam Meraj. 2024.
+\newblock \href {https://arxiv.org/abs/2410.15528} {Improving clinical
+  documentation with ai: A comparative study of sporo ai scribe and gpt-4o
+  mini}.
+\newblock \emph{Preprint}, arXiv:2410.15528.
+
+\bibitem[{Li et~al.(2024{\natexlab{a}})Li, Yan, Pan, Luo, Ji, Ding, Xu, Liu,
+  Dong, Lin, and Wang}]{li2024mmedagentlearningusemedical}
+Binxu Li, Tiankai Yan, Yuanting Pan, Jie Luo, Ruiyang Ji, Jiayuan Ding, Zhe Xu,
+  Shilong Liu, Haoyu Dong, Zihao Lin, and Yixin Wang. 2024{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2407.02483} {Mmedagent: Learning to use
+  medical tools with multi-modal agent}.
+\newblock \emph{Preprint}, arXiv:2407.02483.
+
+\bibitem[{Li et~al.(2024{\natexlab{b}})Li, Wang, Zhang, Li, Lai, Kang, Ma, and
+  Liu}]{li2024agenthospitalsimulacrumhospital}
+Junkai Li, Siyu Wang, Meng Zhang, Weitao Li, Yunghwei Lai, Xinhui Kang, Weizhi
+  Ma, and Yang Liu. 2024{\natexlab{b}}.
+\newblock \href {https://arxiv.org/abs/2405.02957} {Agent hospital: A
+  simulacrum of hospital with evolvable medical agents}.
+\newblock \emph{Preprint}, arXiv:2405.02957.
+
+\bibitem[{Li et~al.(2023)Li, Cheng, Zhao, Nie, and Wen}]{li2023halueval}
+Junyi Li, Xiaoxue Cheng, Wayne~Xin Zhao, Jian-Yun Nie, and Ji-Rong Wen. 2023.
+\newblock Halueval: A large-scale hallucination evaluation benchmark for large
+  language models.
+\newblock \emph{arXiv preprint arXiv:2305.11747}.
+
+\bibitem[{Lin(2004)}]{lin-2004-rouge}
+Chin-Yew Lin. 2004.
+\newblock \href {https://aclanthology.org/W04-1013/} {{ROUGE}: A package for
+  automatic evaluation of summaries}.
+\newblock In \emph{Text Summarization Branches Out}, pages 74--81, Barcelona,
+  Spain. Association for Computational Linguistics.
+
+\bibitem[{Liu et~al.(2024{\natexlab{a}})Liu, Wang, Ma, Huang, Su, Chang, Chen,
+  Li, Shen, and Lyu}]{liu2024medchainbridginggapllm}
+Jie Liu, Wenxuan Wang, Zizhan Ma, Guolin Huang, Yihang Su, Kao-Jung Chang,
+  Wenting Chen, Haoliang Li, Linlin Shen, and Michael Lyu. 2024{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2412.01605} {Medchain: Bridging the gap
+  between llm agents and clinical practice through interactive sequential
+  benchmarking}.
+\newblock \emph{Preprint}, arXiv:2412.01605.
+
+\bibitem[{Liu et~al.(2024{\natexlab{b}})Liu, Yang, Li, Chi, Shen, Lyu, Zhang,
+  Ma, Lv, Ma, Zhang, Xue, Huang, and Gu}]{10.1145/3637528.3671575}
+Lei Liu, Xiaoyan Yang, Fangzhou Li, Chenfei Chi, Yue Shen, Shiwei Lyu, Ming
+  Zhang, Xiaowei Ma, Xiangguo Lv, Liya Ma, Zhiqiang Zhang, Wei Xue, Yiran
+  Huang, and Jinjie Gu. 2024{\natexlab{b}}.
+\newblock \href {https://doi.org/10.1145/3637528.3671575} {Towards automatic
+  evaluation for llms' clinical capabilities: Metric, data, and algorithm}.
+\newblock In \emph{Proceedings of the 30th ACM SIGKDD Conference on Knowledge
+  Discovery and Data Mining}, KDD '24, pages 5466--5475, New York, NY, USA.
+  Association for Computing Machinery.
+
+\bibitem[{Mehandru et~al.(2024)Mehandru, Miao, Almaraz, Sushil, Butte, and
+  Alaa}]{Mehandru2024EvaluatingLL}
+Nikita Mehandru, Brenda~Y Miao, Eduardo~Rodriguez Almaraz, Madhumita Sushil,
+  Atul~Janardhan Butte, and Ahmed Alaa. 2024.
+\newblock \href {https://api.semanticscholar.org/CorpusID:268887942}
+  {Evaluating large language models as agents in the clinic}.
+\newblock \emph{NPJ Digital Medicine}, 7.
+
+\bibitem[{Mukherjee et~al.(2024)Mukherjee, Gamble, Ausin
+  et~al.}]{mukherjee2024polarissafetyfocusedllmconstellation}
+Subhabrata Mukherjee, Paul Gamble, Markel~Sanz Ausin, et~al. 2024.
+\newblock \href {https://arxiv.org/abs/2403.13313} {Polaris: A safety-focused
+  llm constellation architecture for healthcare}.
+\newblock \emph{Preprint}, arXiv:2403.13313.
+
+\bibitem[{Pal et~al.(2022)Pal, Umapathi, and Sankarasubbu}]{pmlr-v174-pal22a}
+Ankit Pal, Logesh~Kumar Umapathi, and Malaikannan Sankarasubbu. 2022.
+\newblock \href {https://proceedings.mlr.press/v174/pal22a.html} {Medmcqa: A
+  large-scale multi-subject multi-choice dataset for medical domain question
+  answering}.
+\newblock In \emph{Proceedings of the Conference on Health, Inference, and
+  Learning}, volume 174 of \emph{Proceedings of Machine Learning Research},
+  pages 248--260. PMLR.
+
+\bibitem[{Papineni et~al.(2002)Papineni, Roukos, Ward, and
+  Zhu}]{papineni-etal-2002-bleu}
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002.
+\newblock \href {https://doi.org/10.3115/1073083.1073135} {{B}leu: a method for
+  automatic evaluation of machine translation}.
+\newblock In \emph{Proceedings of the 40th Annual Meeting of the Association
+  for Computational Linguistics}, pages 311--318, Philadelphia, Pennsylvania,
+  USA. Association for Computational Linguistics.
+
+\bibitem[{Qiu et~al.(2024)Qiu, Lam, Li, Acharya, Wong, Darzi, Yuan, and
+  Topol}]{Qiu2024}
+Jianing Qiu, Kyle Lam, Guohao Li, Amish Acharya, Tien~Yin Wong, Ara Darzi,
+  Wu~Yuan, and Eric~J. Topol. 2024.
+\newblock \href {https://doi.org/10.1038/s42256-024-00944-1} {Llm-based agentic
+  systems in medicine and healthcare}.
+\newblock \emph{Nature Machine Intelligence}, 6(12):1418--1420.
+
+\bibitem[{Reddy(2024)}]{reddy2024generative}
+Sandeep Reddy. 2024.
+\newblock Generative ai in healthcare: an implementation science informed
+  translational path on application, integration and governance.
+\newblock \emph{Implementation Science}, 19(1):27.
+
+\bibitem[{Russell and Norvig(2016)}]{russell2016artificial}
+Stuart~J Russell and Peter Norvig. 2016.
+\newblock \emph{Artificial intelligence: a modern approach}.
+\newblock Pearson.
+
+\bibitem[{Schmidgall et~al.(2024{\natexlab{a}})Schmidgall, Harris, Essien,
+  Olshvang, Rahman, Kim, Ziaei, Eshraghian, Abadir, and
+  Chellappa}]{schmidgall2024addressing}
+Samuel Schmidgall, Carl Harris, Ime Essien, Daniel Olshvang, Tawsifur Rahman,
+  Ji~Woong Kim, Rojin Ziaei, Jason Eshraghian, Peter Abadir, and Rama
+  Chellappa. 2024{\natexlab{a}}.
+\newblock Addressing cognitive bias in medical language models.
+\newblock \emph{arXiv preprint arXiv:2402.08113}.
+
+\bibitem[{Schmidgall et~al.(2024{\natexlab{b}})Schmidgall, Ziaei, Harris, Reis,
+  Jopling, and Moor}]{schmidgall2024agentclinic}
+Samuel Schmidgall, Rojin Ziaei, Carl Harris, Eduardo Reis, Jeffrey Jopling, and
+  Michael Moor. 2024{\natexlab{b}}.
+\newblock \href {https://arxiv.org/abs/2405.07960} {Agentclinic: a multimodal
+  agent benchmark to evaluate ai in simulated clinical environments}.
+\newblock \emph{Preprint}, arXiv:2405.07960.
+
+\bibitem[{Shi et~al.(2024)Shi, Xu, Zhuang, Yu, Zhang, Wu, Zhu, Ho, Yang, and
+  Wang}]{shi2024ehragentcodeempowerslarge}
+Wenqi Shi, Ran Xu, Yuchen Zhuang, Yue Yu, Jieyu Zhang, Hang Wu, Yuanda Zhu,
+  Joyce Ho, Carl Yang, and May~D. Wang. 2024.
+\newblock \href {https://arxiv.org/abs/2401.07128} {Ehragent: Code empowers
+  large language models for few-shot complex tabular reasoning on electronic
+  health records}.
+\newblock \emph{Preprint}, arXiv:2401.07128.
+
+\bibitem[{Strong et~al.(2024)Strong, Men, and
+  Noble}]{strong2024humanaicollaborationhealthcareguided}
+Joshua Strong, Qianhui Men, and Alison Noble. 2024.
+\newblock \href {https://arxiv.org/abs/2406.07212} {Towards human-ai
+  collaboration in healthcare: Guided deferral systems with large language
+  models}.
+\newblock \emph{Preprint}, arXiv:2406.07212.
+
+\bibitem[{Sudarshan et~al.(2024)Sudarshan, Shih, Yee, Yang, Zou, Chen, Zhou,
+  Chen, Singhal, and Shih}]{sudarshan2024agenticllmworkflowsgenerating}
+Malavikha Sudarshan, Sophie Shih, Estella Yee, Alina Yang, John Zou, Cathy
+  Chen, Quan Zhou, Leon Chen, Chinmay Singhal, and George Shih. 2024.
+\newblock \href {https://arxiv.org/abs/2408.01112} {Agentic llm workflows for
+  generating patient-friendly medical reports}.
+\newblock \emph{Preprint}, arXiv:2408.01112.
+
+\bibitem[{SUN et~al.(2024)SUN, WANG, SONG, DONG, LIU, LIANG, LI, SONG, FAN, JIA
+  et~al.}]{sun2024applications}
+Lei SUN, An'an WANG, Yimin SONG, Jing DONG, Xiaoli LIU, Hong LIANG, Lixuan LI,
+  Xinyu SONG, Yong FAN, Zhilong JIA, et~al. 2024.
+\newblock Applications, challenges, and prospects of large language models in
+  the field of clinical medicine.
+
+\bibitem[{Swarms(2025)}]{swarmsofLLM2024}
+Swarms. 2025.
+\newblock \href
+  {https://docs.swarms.world/en/latest/guides/healthcare_blog/?utm_source=chatgpt.com}
+  {Unlocking efficiency and cost savings in healthcare: How swarms of llm
+  agents can revolutionize medical operations and save millions}.
+\newblock Accessed: 2025-02-04.
+
+\bibitem[{Tang et~al.(2024)Tang, Zou, Zhang
+  et~al.}]{tang2024medagentslargelanguagemodels}
+Xiangru Tang, Anni Zou, Zhuosheng Zhang, et~al. 2024.
+\newblock \href {https://arxiv.org/abs/2311.10537} {Medagents: Large language
+  models as collaborators for zero-shot medical reasoning}.
+\newblock \emph{Preprint}, arXiv:2311.10537.
+
+\bibitem[{Van et~al.(2024)Van, Minh, Ngoc, and
+  Thanh}]{van2024rxstrategistprescriptionverification}
+Phuc~Phan Van, Dat~Nguyen Minh, An~Dinh Ngoc, and Huy~Phan Thanh. 2024.
+\newblock \href {https://arxiv.org/abs/2409.03440} {Rx strategist: Prescription
+  verification using llm agents system}.
+\newblock \emph{Preprint}, arXiv:2409.03440.
+
+\bibitem[{Wang et~al.(2024{\natexlab{a}})Wang, Ma, Feng, Zhang, Yang, Zhang,
+  Chen, Tang, Chen, Lin, Zhao, Wei, and Wen}]{Wang_2024}
+Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan
+  Chen, Jiakai Tang, Xu~Chen, Yankai Lin, Wayne~Xin Zhao, Zhewei Wei, and
+  Jirong Wen. 2024{\natexlab{a}}.
+\newblock \href {https://doi.org/10.1007/s11704-024-40231-1} {A survey on large
+  language model based autonomous agents}.
+\newblock \emph{Frontiers of Computer Science}, 18(6).
+
+\bibitem[{Wang et~al.(2024{\natexlab{b}})Wang, Zhu, Zhao
+  et~al.}]{wang2024colacareenhancingelectronichealth}
+Zixiang Wang, Yinghao Zhu, Huiya Zhao, et~al. 2024{\natexlab{b}}.
+\newblock \href {https://arxiv.org/abs/2410.02551} {Colacare: Enhancing
+  electronic health record modeling through large language model-driven
+  multi-agent collaboration}.
+\newblock \emph{Preprint}, arXiv:2410.02551.
+
+\bibitem[{Wei et~al.(2024{\natexlab{a}})Wei, Qiu, Yu, and
+  Yuan}]{wei2024medcomedicaleducationcopilots}
+Hao Wei, Jianing Qiu, Haibao Yu, and Wu~Yuan. 2024{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2408.12496} {Medco: Medical education
+  copilots based on a multi-agent framework}.
+\newblock \emph{Preprint}, arXiv:2408.12496.
+
+\bibitem[{Wei et~al.(2023)Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le,
+  and Zhou}]{wei2023chainofthoughtpromptingelicitsreasoning}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia,
+  Ed~Chi, Quoc Le, and Denny Zhou. 2023.
+\newblock \href {https://arxiv.org/abs/2201.11903} {Chain-of-thought prompting
+  elicits reasoning in large language models}.
+\newblock \emph{Preprint}, arXiv:2201.11903.
+
+\bibitem[{Wei et~al.(2024{\natexlab{b}})Wei, Yang, Li, Xu, Chen, Li, Jiang,
+  Hou, and Zhang}]{wei2024medaideomnimedicalaide}
+Jinjie Wei, Dingkang Yang, Yanshu Li, Qingyao Xu, Zhaoyu Chen, Mingcheng Li,
+  Yue Jiang, Xiaolu Hou, and Lihua Zhang. 2024{\natexlab{b}}.
+\newblock \href {https://arxiv.org/abs/2410.12532} {Medaide: Towards an omni
+  medical aide via specialized llm-based multi-agent collaboration}.
+\newblock \emph{Preprint}, arXiv:2410.12532.
+
+\bibitem[{Wu et~al.(2024)Wu, Liang, Bai, and
+  Chen}]{wu2024surgboxagentdrivenoperatingroom}
+Jinlin Wu, Xusheng Liang, Xuexue Bai, and Zhen Chen. 2024.
+\newblock \href {https://arxiv.org/abs/2412.05187} {Surgbox: Agent-driven
+  operating room sandbox with surgery copilot}.
+\newblock \emph{Preprint}, arXiv:2412.05187.
+
+\bibitem[{Xi et~al.(2023)Xi, Chen, Guo, He, Ding, Hong, Zhang, Wang, Jin, Zhou,
+  Zheng, Fan, Wang, Xiong, Zhou, Wang, Jiang, Zou, Liu, Yin, Dou, Weng, Cheng,
+  Zhang, Qin, Zheng, Qiu, Huang, and Gui}]{xi2023risepotentiallargelanguage}
+Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, Boyang Hong, Ming
+  Zhang, Junzhe Wang, Senjie Jin, Enyu Zhou, Rui Zheng, Xiaoran Fan, Xiao Wang,
+  Limao Xiong, Yuhao Zhou, Weiran Wang, Changhao Jiang, Yicheng Zou, Xiangyang
+  Liu, Zhangyue Yin, Shihan Dou, Rongxiang Weng, Wensen Cheng, Qi~Zhang,
+  Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang, and Tao Gui. 2023.
+\newblock \href {https://arxiv.org/abs/2309.07864} {The rise and potential of
+  large language model based agents: A survey}.
+\newblock \emph{Preprint}, arXiv:2309.07864.
+
+\bibitem[{Xu et~al.(2024)Xu, Zhou, Liu, Wu, Zhong, Zhao, Li, Jiang, Pan, Chen,
+  Lu, Zhang, Zhang, Zhang, Zhu, Li, Liu, Li, Sikora, Zhai, Xiang, and
+  Liu}]{xu2024nextgenerationmedicalagento1}
+Shaochen Xu, Yifan Zhou, Zhengliang Liu, Zihao Wu, Tianyang Zhong, Huaqin Zhao,
+  Yiwei Li, Hanqi Jiang, Yi~Pan, Junhao Chen, Jin Lu, Wei Zhang, Tuo Zhang,
+  Lu~Zhang, Dajiang Zhu, Xiang Li, Wei Liu, Quanzheng Li, Andrea Sikora,
+  Xiaoming Zhai, Zhen Xiang, and Tianming Liu. 2024.
+\newblock \href {https://arxiv.org/abs/2411.14461} {Towards next-generation
+  medical agent: How o1 is reshaping decision-making in medical scenarios}.
+\newblock \emph{Preprint}, arXiv:2411.14461.
+
+\bibitem[{Yan et~al.(2024)Yan, Liu, Wu, Chen, Wang, Chai, Wang, Zhao, Zhang,
+  Zhang, Zhu, and Zhao}]{yan2024clinicallabaligningagentsmultidepartmental}
+Weixiang Yan, Haitian Liu, Tengxiao Wu, Qian Chen, Wen Wang, Haoyuan Chai,
+  Jiayi Wang, Weishan Zhao, Yixin Zhang, Renjun Zhang, Li~Zhu, and Xuandong
+  Zhao. 2024.
+\newblock \href {https://arxiv.org/abs/2406.13890} {Clinicallab: Aligning
+  agents for multi-departmental clinical diagnostics in the real world}.
+\newblock \emph{Preprint}, arXiv:2406.13890.
+
+\bibitem[{YAN et~al.(2025)YAN, HU, ZENG, LIU, and LIANG}]{yan2025application}
+Wenxin YAN, Jian HU, Huatang ZENG, Min LIU, and Wannian LIANG. 2025.
+\newblock The application of large language models in primary healthcare
+  services and the challenges.
+\newblock \emph{Chinese General Practice}, 28(01):1.
+
+\bibitem[{Yao et~al.(2023{\natexlab{a}})Yao, Yu, Zhao, Shafran, Griffiths, Cao,
+  and Narasimhan}]{yao2023treethoughtsdeliberateproblem}
+Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas~L. Griffiths, Yuan
+  Cao, and Karthik Narasimhan. 2023{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2305.10601} {Tree of thoughts:
+  Deliberate problem solving with large language models}.
+\newblock \emph{Preprint}, arXiv:2305.10601.
+
+\bibitem[{Yao et~al.(2023{\natexlab{b}})Yao, Zhao, Yu, Du, Shafran, Narasimhan,
+  and Cao}]{yao2023reactsynergizingreasoningacting}
+Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan,
+  and Yuan Cao. 2023{\natexlab{b}}.
+\newblock \href {https://arxiv.org/abs/2210.03629} {React: Synergizing
+  reasoning and acting in language models}.
+\newblock \emph{Preprint}, arXiv:2210.03629.
+
+\bibitem[{Yu et~al.(2024)Yu, Zhou, Li
+  et~al.}]{yu2024aipatientsimulatingpatientsehrs}
+Huizi Yu, Jiayan Zhou, Lingyao Li, et~al. 2024.
+\newblock \href {https://arxiv.org/abs/2409.18924} {Aipatient: Simulating
+  patients with ehrs and llm powered agentic workflow}.
+\newblock \emph{Preprint}, arXiv:2409.18924.
+
+\bibitem[{Yuan et~al.(2022)Yuan, Coenen, Reif, and
+  Ippolito}]{10.1145/3490099.3511105}
+Ann Yuan, Andy Coenen, Emily Reif, and Daphne Ippolito. 2022.
+\newblock \href {https://doi.org/10.1145/3490099.3511105} {Wordcraft: Story
+  writing with large language models}.
+\newblock In \emph{Proceedings of the 27th International Conference on
+  Intelligent User Interfaces}, IUI '22, page 841–852, New York, NY, USA.
+  Association for Computing Machinery.
+
+\bibitem[{Yuan et~al.(2024)Yuan, He, Dong, Wang, Zhao, Xia, Xu, Zhou, Li,
+  Zhang, Wang, and Liu}]{yuan-etal-2024-r}
+Tongxin Yuan, Zhiwei He, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia,
+  Lizhen Xu, Binglin Zhou, Fangqi Li, Zhuosheng Zhang, Rui Wang, and Gongshen
+  Liu. 2024.
+\newblock \href {https://doi.org/10.18653/v1/2024.findings-emnlp.79}
+  {{R}-judge: Benchmarking safety risk awareness for {LLM} agents}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2024}, pages 1467--1490, Miami, Florida, USA. Association for
+  Computational Linguistics.
+
+\bibitem[{Yue et~al.(2024)Yue, Xing, Chen, and
+  Fu}]{yue2024clinicalagentclinicaltrialmultiagent}
+Ling Yue, Sixue Xing, Jintai Chen, and Tianfan Fu. 2024.
+\newblock \href {https://arxiv.org/abs/2404.14777} {Clinicalagent: Clinical
+  trial multi-agent system with large language model-based reasoning}.
+\newblock \emph{Preprint}, arXiv:2404.14777.
+
+\bibitem[{Zhang et~al.(2024)Zhang, Shu, Hu, Li, He, Wang, and
+  Shen}]{electronics13112002}
+Luyao Zhang, Jianhua Shu, Jili Hu, Fangfang Li, Junjun He, Peng Wang, and
+  Yiqing Shen. 2024.
+\newblock \href {https://doi.org/10.3390/electronics13112002} {Exploring the
+  potential of large language models in radiological imaging systems: Improving
+  user interface design and functional capabilities}.
+\newblock \emph{Electronics}, 13(11).
+
+\bibitem[{Zhang et~al.(2020)Zhang, Kishore, Wu, Weinberger, and
+  Artzi}]{zhang2020bertscoreevaluatingtextgeneration}
+Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian~Q. Weinberger, and Yoav Artzi.
+  2020.
+\newblock \href {https://arxiv.org/abs/1904.09675} {Bertscore: Evaluating text
+  generation with bert}.
+\newblock \emph{Preprint}, arXiv:1904.09675.
+
+\bibitem[{Zhao et~al.(2025)Zhao, Yue, Xie, Fang, Shao, and Guo}]{nursingrobot}
+Zhendong Zhao, Xiaotian Yue, Jiexin Xie, Chuanhong Fang, Zhenzhou Shao, and
+  Shijie Guo. 2025.
+\newblock \href {https://doi.org/10.1109/LRA.2025.3533476} {A dual-agent
+  collaboration framework based on llms for nursing robots to perform bimanual
+  coordination tasks}.
+\newblock \emph{IEEE Robotics and Automation Letters}, pages 1--8.
+
+\bibitem[{Zhu et~al.(2024)Zhu, Wei, Wang, Xue, Zhang, and
+  Zhang}]{zhu2024mentibridgingmedicalcalculator}
+Yakun Zhu, Shaohang Wei, Xu~Wang, Kui Xue, Xiaofan Zhang, and Shaoting Zhang.
+  2024.
+\newblock \href {https://arxiv.org/abs/2410.13610} {Menti: Bridging medical
+  calculator and llm agent with nested tool calling}.
+\newblock \emph{Preprint}, arXiv:2410.13610.
+
+\bibitem[{Zuo and Jiang(2024)}]{zuo2024medhallbench}
+Kaiwen Zuo and Yirui Jiang. 2024.
+\newblock Medhallbench: A new benchmark for assessing hallucination in medical
+  large language models.
+\newblock \emph{arXiv preprint arXiv:2412.18947}.
+
+\bibitem[{Zuo et~al.(2025)Zuo, Jiang, Mo, and
+  Lio}]{zuo2025kg4diagnosishierarchicalmultiagentllm}
+Kaiwen Zuo, Yirui Jiang, Fan Mo, and Pietro Lio. 2025.
+\newblock \href {https://arxiv.org/abs/2412.16833} {Kg4diagnosis: A
+  hierarchical multi-agent llm framework with knowledge graph enhancement for
+  medical diagnosis}.
+\newblock \emph{Preprint}, arXiv:2412.16833.
+
+\end{thebibliography}
